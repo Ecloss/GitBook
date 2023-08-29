@@ -26,6 +26,7 @@
 * [📕 策略回顾](my-trade/ce-lve-hui-gu/README.md)
   * [8 8月回顾](my-trade/ce-lve-hui-gu/8-yue-hui-gu.md)
   * [9 9月回顾](my-trade/ce-lve-hui-gu/9-yue-hui-gu.md)
+* [🎁 晒单与奖励](my-trade/shai-dan-yu-jiang-li.md)
 
 ## 📒 币种生态介绍
 
