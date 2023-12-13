@@ -1,14 +1,9 @@
 # Table of contents
 
-* [😃 进社群前必读，希望对你有好处\~](README.md)
+* [😃 进社群和交易前必读，希望对你有好处\~](README.md)
   * [不管你是哪里来的，我先劝退！](must-know/know-1.md)
   * [云舒是谁？](must-know/know-2.md)
-  * [👋 如何进群（社群结构介绍）](must-know/insert-chat.md)
-* [🥳 一些Q\&A（经常被问到的问题）](yi-xie-qa-jing-chang-bei-wen-dao-de-wen-ti/README.md)
-  * [🙃 为什么他娘的现在应该投资crypto？](yi-xie-qa-jing-chang-bei-wen-dao-de-wen-ti/question-1.md)
-  * [😳 云宝啊，你的手法是什么？](yi-xie-qa-jing-chang-bei-wen-dao-de-wen-ti/question-2.md)
-  * [🧐 别骂了，哥们不是永赚哥](yi-xie-qa-jing-chang-bei-wen-dao-de-wen-ti/question-3.md)
-  * [😭 我爆仓了，该咋办](yi-xie-qa-jing-chang-bei-wen-dao-de-wen-ti/question-4.md)
+* [👋 如何进云舒大家庭（社群结构介绍）](insert-chat.md)
 * [👉 新手看这里（这都看不懂直接掉头）](start/README.md)
   * [🌴 （形态基础）快速了解K线技术形态](start/k-line-1.md)
   * [🌴 （入门-心态篇）新手如何玩合约](start/study-2.md)
@@ -17,6 +12,11 @@
   * [🎄 （入门）新手如何在交易中成长](start/start-5.md)
   * [🥬 如何分批建仓](start/start-6.md)
   * [交易所注册](start/jiao-yi-suo-zhu-ce.md)
+* [🥳 一些Q\&A（群友问的问题）](yi-xie-qa-jing-chang-bei-wen-dao-de-wen-ti/README.md)
+  * [🙃 为什么他娘的现在应该投资crypto？](yi-xie-qa-jing-chang-bei-wen-dao-de-wen-ti/question-1.md)
+  * [😳 云宝啊，你的手法是什么？](yi-xie-qa-jing-chang-bei-wen-dao-de-wen-ti/question-2.md)
+  * [🧐 永赚的信息茧房](yi-xie-qa-jing-chang-bei-wen-dao-de-wen-ti/question-3.md)
+  * [😭 我爆仓了，该咋办](yi-xie-qa-jing-chang-bei-wen-dao-de-wen-ti/question-4.md)
 
 ## 📊 投资日常 <a href="#my-trade" id="my-trade"></a>
 

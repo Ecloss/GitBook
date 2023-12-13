@@ -3,10 +3,11 @@ description: 读完了先想想，没有自制力和认知水平的不建议进
 coverY: 0
 ---
 
-# 😃 进社群前必读，希望对你有好处\~
+# 😃 进社群和交易前必读，希望对你有好处\~
 
-<mark style="color:red;background-color:red;">**请对自己的交易和本金负责，本社群仅提供策略和行情分析，不喊买喊卖，仅作参考。**</mark>\
-<mark style="color:purple;">**禁止新手、欠债人士和赌狗入坑合约，对这三类人来说，此乃修罗场，不要入坑！**</mark>
+<mark style="color:red;background-color:red;">**请对自己的交易和本金负责，本社群仅提供策略和行情分析，不喊买喊卖，仅作参考。**</mark>\ <mark style="color:red;background-color:red;">**另外，市面上有很多人拿我的不收费的策略卖你2000U，请你别傻乎乎的去那边相信我们有别的群！**</mark>\
+<mark style="color:red;">**新手、欠债人士和赌狗禁止入坑合约，对这三类人来说，此乃修罗场，不要入坑！**</mark>
 
-<mark style="color:orange;">以及, 进群前，谁他娘的敢叫</mark><mark style="color:orange;">**老师**</mark><mark style="color:orange;">，我直接一个螺旋飞踢。哥们不是分析尸and诈骗老师。</mark>\ <mark style="color:orange;">谢谢，这里不喊买喊卖。</mark>
+以及, 进群前，谁他娘的敢叫**老师**，我直接一个螺旋飞踢。哥们不是分析尸and诈骗老师。\ 谢谢，这里不喊买喊卖。
 
+**这个文档请你收藏，后续防走丢、包括会发布更多的交易资料和指标链接。**
