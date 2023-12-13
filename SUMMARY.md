@@ -25,9 +25,11 @@
   * [🌿 交易技巧在哪里](my-trade/trade-know-1/trade-know-3.md)
   * [🏃♂ 呵呵，云仔偷懒怎么办？](my-trade/trade-know-1/trade-know-4.md)
   * [☄ 如何刺激云舒给我们喂饱](my-trade/trade-know-1/trade-know-5.md)
-* [📕 策略回顾](my-trade/ce-lve-hui-gu/README.md)
-  * [8 8月回顾](my-trade/ce-lve-hui-gu/8-yue-hui-gu.md)
-  * [9 9月回顾](my-trade/ce-lve-hui-gu/9-yue-hui-gu.md)
+* [📕 超神策略回顾（装修中，可以先看微博）](my-trade/ce-lve-hui-gu/README.md)
+  * [11月回顾](my-trade/ce-lve-hui-gu/11-yue-hui-gu.md)
+  * [10月回顾](my-trade/ce-lve-hui-gu/10-yue-hui-gu.md)
+  * [8月回顾](my-trade/ce-lve-hui-gu/8-yue-hui-gu.md)
+  * [9月回顾](my-trade/ce-lve-hui-gu/9-yue-hui-gu.md)
 * [🎁 晒单与奖励](my-trade/shai-dan-yu-jiang-li.md)
 
 ## 📒 币种生态介绍
